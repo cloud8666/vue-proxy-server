@@ -1,0 +1,23 @@
+{
+  "name": "vue-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqliuyun/vue-proxy-server.git"
+  },
+  "author": "yunliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aqliuyun/vue-proxy-server/issues"
+  },
+  "homepage": "https://github.com/aqliuyun/vue-proxy-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5"
+  }
+}
